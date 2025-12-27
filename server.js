@@ -2,7 +2,7 @@ const express = require("express");
 const morgan = require("morgan");
 
 const app = express();
-const PORT = 3000;
+const PORT = 80;
 
 // ⚠️ PRACTICE ONLY — hard-coded API key
 const API_KEY = "public-practice-api-key-123";
